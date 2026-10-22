@@ -150,7 +150,7 @@ class GSP:
     
  
 **main2.py** 
-from gspx import gsp2 
+```from gspx import gsp2 
 threshold = 3 # minimum support 
 level = 3 # number of levels for GSP 
 g = gsp2.GSP(threshold, 'C:\\Users\\Welcome\\AppData\\Local\\Programs\\Python\\Python311\\Data_GSP\\') 
